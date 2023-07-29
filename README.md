@@ -1,4 +1,7 @@
 # LSystem-Generator
+![alt text][LSystem_Art]
+
+[LSystem_Art]: https://github.com/Nir-Al/LSystem-Generator/blob/main/Art.png?raw=true "LSystem Art"
 ## What is the Lindenmayer system?
 
 The Lindenmayer system, also known as L-system, is a fascinating concept that allows you to generate intricate and beautiful patterns found in nature. This system was originally developed to study the growth and structure of plants, but it has since become a powerful tool for artists, designers, and enthusiasts to create mesmerizing visualizations that resemble living organisms.
